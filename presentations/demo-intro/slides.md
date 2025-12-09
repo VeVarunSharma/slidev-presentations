@@ -39,13 +39,11 @@ duration: 20min
 > — Orhan Pamuk
 
 ---
-
 layout: center
 class: text-left
 background: https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1600&q=80
 mask: rgba(10,10,10,0.45)
 transition: fade-out
-
 ---
 
 # Why Dogs Are The Best 🏆
@@ -81,11 +79,9 @@ pie showData
 ```
 
 ---
-
 layout: image-right
 image: https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80
 class: text-left
-
 ---
 
 # Science-Backed Benefits 🔬
@@ -130,13 +126,11 @@ class: text-left
 > — Every dog parent ever
 
 ---
-
 layout: center
 class: text-center text-5xl font-bold tracking-tight
 background: https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?auto=format&fit=crop&w=1600&q=80
 mask: linear-gradient(135deg, rgba(0,0,0,0.6), rgba(30,30,30,0.4))
 transition: fade-up
-
 ---
 
 DOG IS GOD SPELLED BACKWARDS 🙏🐕
